@@ -1,0 +1,8 @@
+// wifi_config.h
+#ifndef WIFI_CONFIG_H
+#define WIFI_CONFIG_H
+
+const char* ssid = "ESP32 WIFI";
+const char* password = "11111111";
+
+#endif
